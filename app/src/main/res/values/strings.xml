@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kdelab</string>
+    <string name="none_paired">페어링 되지 않음</string>
+    <string name="select_device">선택된 기기</string>
+    <string name="none_found">찾지 못하였습니다.</string>
+
+</resources>
